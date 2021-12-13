@@ -1,4 +1,4 @@
-# Loftus react-portfolio 
+# Loftus React Portfolio 
 
 # User Story
 

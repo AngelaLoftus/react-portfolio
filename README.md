@@ -1,4 +1,4 @@
-# Loftus react-portfolio 
+# Loftus React Portfolio  ## NOT DONE
 
 # User Story
 

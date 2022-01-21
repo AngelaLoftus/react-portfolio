@@ -18,10 +18,9 @@ class MyPortfolio extends React.Component {
           <Project
             id={project.id}
             key={project.id}
-            name={project.name}
+            title={project.title}
             image={project.image}
-            occupation={project.occupation}
-            location={project.location}
+            link = {project.link}
           />
         ))}
         </Wrapper>

@@ -1,5 +1,5 @@
 {
-  "homepage": "http://<AngelaLoftus>.github.io/loftus-portfolio",
+  "homepage": "http://AngelaLoftus.github.io/react-portfolio",
 
   "name": "loftus-portfolio",
   "version": "0.1.0",
@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b main -d build"
   },
   "eslintConfig": {
     "extends": [

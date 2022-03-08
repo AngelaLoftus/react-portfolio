@@ -7,6 +7,9 @@ const Footer = () => {
           <div className="container">
             &copy;{new Date().getFullYear()} by Angela Loftus
           </div>
+          <div>
+            
+          </div>
         </footer>
       );
 };
